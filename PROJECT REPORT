@@ -1,1 +1,26 @@
+Project Report: Password Cracker
+Team Members name:
+* Vaibhav 
+* Thanish 
+* Naman 
+* Sujan Naik
+
+Project Objective:
+Password Cracking is a technique used to gain access,
+starting from personal information, and applies to organizational security.
+As with the ongoing advancement of technology, data protection and management
+are very important and have a vital role in the prevention of cyber fraud and hacking.
+
+Immplementation Details:
+1. Brute Force Attack : In a brute-force password attack, a hacker tries to access a secure user account through trial and error. 
+2. Password Spraying : A password spray attack is a type of brute force attack in which, rather than trying many random passwords against a single account.
+3. Credential Stuffing : In a credential stuffing attack, hackers use compromised credentials, to log in to other user accounts.
+4. Dictionary Attack : a hacker systematically enters common words and word variations from a specific, preselected list.
+5. Mask Attack : A mask attack is similar to a dictionary attack, but it's a far more targeted brute-force technique.
+6. Spidering : Spidering is also intended to support a dictionary attack and similarly requires some dedicated effort on the part of the hacker.
+7. MITM(Man In The Middle)Attack : involve eavesdropping on or otherwise intercepting sensitive communications between the app or website a user is connected.
+8. Rainbow Tables : are comprehensive directories that use a password hash algorithm to list out every possible plaintext version of an encrypted password.
+9. Phishing : A phishing attack is less about cracking passwords and more about getting users.
+10.Malware : refers to programs that are designed specifically for stealing passwords.
+
 
